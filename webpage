@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Webpage</title>
+</head>
+<body>
+
+    <h1>Welcome to My Website</h1>
+    <p>This is a paragraph of text to show basic HTML usage.</p>
+
+    <h2>About Me</h2>
+    <p>My name is John. I love coding and learning new things.</p>
+
+    <h3>My Hobbies</h3>
+    <ul>
+        <li>Reading</li>
+        <li>Programming</li>
+        <li>Traveling</li>
+    </ul>
+
+    <h3>Contact</h3>
+    <p>Email: <a href="mailto:john@example.com">john@example.com</a></p>
+
+</body>
+</html>
+Key HTML Tags Used:
+<!DOCTYPE html> – Declares the document type and version.
+
+<html> – The root element.
+
+<head> – Contains meta information like the <title>.
+
+<title> – Sets the title in the browser
+
+
