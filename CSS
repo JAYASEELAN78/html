@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Simple CSS Example</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: black;
+      text-align: center;
+      padding: 50px;
+    }
+
+    h1 {
+      color: red;
+    }
+
+    p {
+      color: blue;
+      font-size: 18px;
+    }
+
+    button {
+      background-color: #4CAF50;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: white;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Hello, World!</h1>
+  <p>This is a simple web page styled with CSS.</p>
+  <button>Click Me</button>
+
+</body>
+</html>
